@@ -16,7 +16,6 @@
 - [Usage](#usage)
 - [RAG Pipeline Deep Dive](#rag-pipeline-deep-dive)
 - [API Reference](#api-reference)
-- [Known Limitations](#known-limitations)
 - [Future Improvements](#future-improvements)
 - [Skills Demonstrated](#skills-demonstrated)
 
