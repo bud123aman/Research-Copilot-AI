@@ -210,7 +210,7 @@ cd research-copilot-ai
 
 ```bash
 python -m venv venv
-source venv/bin/activate        # On Windows: venv\Scripts\activate
+source venv/bin/activate       
 ```
 
 ### 3. Install Dependencies
