@@ -29,7 +29,7 @@ The system is built around advanced retrieval techniques including **Hierarchica
 
 ---
 
-## Demo Video
+## Demo
 
 [![Watch the Demo](https://img.youtube.com/vi/dQxuZEU6Mhc/0.jpg)](https://youtu.be/dQxuZEU6Mhc)
 
