@@ -167,7 +167,7 @@ Zero API cost. Zero data leaving your machine.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ai-copilot/
