@@ -233,12 +233,6 @@ ollama pull gemma3:1b
 streamlit run app.py
 ```
 
-### 6. (Optional) Run the FastAPI Backend
-
-```bash
-uvicorn api.server:app --reload --port 8000
-```
-
 ---
 
 ## Usage
