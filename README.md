@@ -357,4 +357,4 @@ After fusion, the top candidates are reranked by a **cross-encoder** (`ms-marco-
 
 ## Author
 
-Built by **[Aman Singh Budhala]** — feel free to connect on [LinkedIn](https://www.linkedin.com/in/aman-singh-budhala-a7037324a/).
+Built by ** Aman Singh Budhala ** — feel free to ask any queries on amansinghbudhala15@gmail.com
